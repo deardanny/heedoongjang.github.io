@@ -1,3 +1,7 @@
-title: "Heedoong Jang's Portfolio"
-description: "Data Scientist | Machine Learning | AI"
-theme: jekyll-theme-cayman
+title: "Heedoong Jang"
+description: "Data Scientist | AI | Machine Learning"
+theme: jekyll-theme-minimal
+
+# Navigation (One Page Scrolling)
+header_pages:
+  - index.md
